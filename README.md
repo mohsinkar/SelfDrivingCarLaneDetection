@@ -2,7 +2,7 @@
 
 
 
-<b>The following processes are performed in the this function</b>
+<b>The following processes are performed</b>
 
 1. Image is conveted to HSV <br/>
 2. Color range is defined for white color lanes <br/>
